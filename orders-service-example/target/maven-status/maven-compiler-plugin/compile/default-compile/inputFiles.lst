@@ -1,0 +1,6 @@
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/dtos/PaymentStatus.java
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/dtos/Product.java
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/domain/OrderStatus.java
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/OrdersServiceExampleApplication.java
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/logic/OrdersLogic.java
+/app/src/main/java/uy/edu/ort/devops/ordersserviceexample/endpoints/OrdersEndpoint.java
